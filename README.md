@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📝 Blog Details App
 
@@ -64,3 +65,6 @@ frontend/
 - ❌ Delete a blog post
 - 💾 MongoDB-based persistent storage
 - 📱 Responsive design for all devices
+=======
+# blog_project
+>>>>>>> aa88c22f3307a9e91eeb4c1ce9b3488cefe6d965
