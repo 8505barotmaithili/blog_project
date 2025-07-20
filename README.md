@@ -6,11 +6,6 @@ A full-stack web application to **create, read, update, and delete** blog posts.
 
 ---
 
-## 🚀 Live Preview (Optional)
-[🌐 Demo Link](#) — *(Add your deployed site link here)*
-
----
-
 ## 📸 Screenshots
 
 > Add screenshots after building UI for better presentation
